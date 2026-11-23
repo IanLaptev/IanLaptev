@@ -1,4 +1,4 @@
-### Hi, I'm Ian 🦊
+### Hi, I'm Ian 
 
 Fullstack & C# developer and startup founder based in **Belgrade, Serbia**.
 I build products end to end — from the .NET backend and React frontend to the servers they run on.
